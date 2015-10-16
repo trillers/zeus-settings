@@ -1,0 +1,15 @@
+
+{
+  "name": "zeus-settings",
+  "version": "0.1.0-SNAPSHOT",
+  "description": "zeus settings",
+  "repository": {
+    "type": "https",
+    "url": "https://github.com/trillers/zeus-settings.git"
+  },
+  "main": "index.js",
+  "author": "Allen",
+  "license": "",
+  "dependencies": {
+  }
+}
