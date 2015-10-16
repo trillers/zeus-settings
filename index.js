@@ -3,11 +3,11 @@ var settings = module.exports = {
         name: 'prd',
         mode: 'production',
         host: '127.0.0.1',
-        port: 3020,
+        port: 3010,
         bindIp: "0.0.0.0",
 
         NODE_ENV: 'production',
-        PORT: 3020,
+        PORT: 3010,
         BINDIP: "0.0.0.0"
     },
 
@@ -16,7 +16,7 @@ var settings = module.exports = {
     app: {
         protocol: 'http',
         host: '127.0.0.1',
-        port: 3020,
+        port: 3010,
         domain: 'http://boss.www.wenode.org',
         domainPort: 80,
         context: '/'
