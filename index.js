@@ -23,7 +23,7 @@ var settings = module.exports = {
     },
 
     api: {
-        url: 'http://127.0.0.1/api'
+        url: 'http://localhost:3010/api'
     },
 
     logging: {
