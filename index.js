@@ -1,12 +1,12 @@
 var settings = module.exports = {
     env: {
-        name: 'prd',
-        mode: 'production',
+        name: 'dev',
+        mode: 'develop',
         host: '127.0.0.1',
         port: 3010,
         bindIp: "0.0.0.0",
 
-        NODE_ENV: 'production',
+        NODE_ENV: 'develop',
         PORT: 3010,
         BINDIP: "0.0.0.0"
     },
@@ -23,7 +23,7 @@ var settings = module.exports = {
     },
 
     api: {
-        url: 'http://boss.www.wenode.org/api'
+        url: 'http://127.0.0.1/api'
     },
 
     logging: {
