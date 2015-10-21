@@ -43,11 +43,11 @@ var settings = module.exports = {
     },
 
     mongo: {
-        host: "ds031883.mongolab.com",
-        port: 31883,
-        db: "zues",
-        username: 'trillers',
-        password: 'trillers'
+        host: "127.0.0.1",
+        port: 27017,
+        db: "trillers",
+        username: '',
+        password: ''
     },
 
     session: {
