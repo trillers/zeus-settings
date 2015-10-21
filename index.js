@@ -45,7 +45,7 @@ var settings = module.exports = {
     mongo: {
         host: "ds031883.mongolab.com",
         port: 31883,
-        db: "zues",
+        db: "trillers",
         username: 'trillers',
         password: 'trillers'
     },
