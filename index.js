@@ -17,13 +17,13 @@ var settings = module.exports = {
         protocol: 'http',
         host: '127.0.0.1',
         port: 3010,
-        domain: 'http://boss.www.wenode.org',
+        domain: 'http://ci.boss.wenode.org',
         domainPort: 80,
         context: '/'
     },
 
     api: {
-        url: 'http://localhost:3010/api'
+        url: 'http://ci.boss.wenode/api'
     },
 
     logging: {
