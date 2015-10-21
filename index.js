@@ -23,7 +23,7 @@ var settings = module.exports = {
     },
 
     api: {
-        url: 'http://ci.boss.wenode/api'
+        url: 'http://ci.boss.wenode.org/api'
     },
 
     logging: {
