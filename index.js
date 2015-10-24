@@ -25,7 +25,9 @@ var settings = module.exports = {
     api: {
         url: 'http://ci.boss.wenode.org/api'
     },
-
+    athenaApi: {
+        url:  'http://ci.www.wenode.org/api'
+    },
     logging: {
         reloadSecs: 0, //INFO: set 0 could let nodeunit tests which use log4js exit properly
         level: 'DEBUG'
